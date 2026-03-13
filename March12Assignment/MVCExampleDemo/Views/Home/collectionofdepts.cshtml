@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MVCExampleDemo.Models.Dept>
+@{
+    ViewData["Title"] = "collectionofdepts";
+}
+
+<h1>Collection Of Depts</h1>
+
+<table cellpadding="3" cellspacing="3" border="2">
+    <tr>
+        <th>Dept ID</th>
+        <th>Dept Name</th>
+        <th>Link</th>
+    </tr>
+    @foreach(var dept in Model)
+    {
+        <tr>
+            <td>@dept.DeptID</td>
+            <td>@dept.DeptName</td>
+            <td>
+                <a asp-controller="Home"
+                   asp-action="EmpsInDept"
+                   asp-route-deptid="@dept.DeptID">
+                    View Employees
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+

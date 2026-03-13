@@ -1,0 +1,20 @@
+﻿@model MVCExampleDemo.Models.Employee
+@{
+    ViewData["Title"] = "searchemp";
+}
+
+<h1>Search Employee</h1>
+
+<table border="1" cellpadding="2" cellspacing="3">
+    <tr>
+        <th>Employee ID</th>
+        <th>Employee Name</th>
+        <th>Employee Salary</th>
+    </tr>
+    <tr>
+        <td>@Model.EmployeeID</td>
+        <td>@Model.EmpName</td>
+        <td>@Model.Salary</td>
+    </tr>
+</table>
+
