@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arshdeep_Singh\\DogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|e:\\arshdeep_singh\\dogapp\\dogapp\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{185108BC-2832-4FE9-9892-C318439B9EA5}|DogApp\\DogApp.csproj|solutionrelative:dogapp\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Delete.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Delete.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Delete.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:38:38.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Edit.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Edit.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:37:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Details.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Details.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Details.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:14:28.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Index.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Index.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Index.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T08:33:07.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Dog\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:23:18.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "DogApp\\Controllers\\DogController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Controllers\\DogController.cs",
+              "RelativeToolTip": "DogApp\\Controllers\\DogController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwGkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:18:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DogApp\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DogApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-13T06:14:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DogApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DogApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:02:48.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "DogApp\\Models\\Dog.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\DogApp\\DogApp\\Models\\Dog.cs",
+              "RelativeToolTip": "DogApp\\Models\\Dog.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:00:04.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
