@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arshdeep_Singh\\MVCAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\views\\enrollment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\views\\enrollment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\views\\enrollment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\models\\studentdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\models\\studentdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\models\\coursedetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\models\\coursedetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\models\\studentcoursesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\models\\studentcoursesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|e:\\arshdeep_singh\\mvcassignment\\studentcourselist\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C650A043-D779-52FB-46DA-21E57A128015}|StudentCourseList\\StudentCourseList.csproj|solutionrelative:studentcourselist\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Views\\Enrollment\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseList\\Views\\Enrollment\\Details.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Views\\Enrollment\\Details.cshtml",
+              "RelativeToolTip": "StudentCourseList\\Views\\Enrollment\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T10:21:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Views\\Enrollment\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseList\\Views\\Enrollment\\Index.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Views\\Enrollment\\Index.cshtml",
+              "RelativeToolTip": "StudentCourseList\\Views\\Enrollment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:27:26.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentCourseList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:51:31.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "StudentCourseList\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:53:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDetailVM.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\StudentDetailVM.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Models\\StudentDetailVM.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\StudentDetailVM.cs",
+              "RelativeToolTip": "StudentCourseList\\Models\\StudentDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:50:58.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseDetailVM.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\CourseDetailVM.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Models\\CourseDetailVM.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\CourseDetailVM.cs",
+              "RelativeToolTip": "StudentCourseList\\Models\\CourseDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:50:31.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentCoursesVM.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\StudentCoursesVM.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Models\\StudentCoursesVM.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\StudentCoursesVM.cs",
+              "RelativeToolTip": "StudentCourseList\\Models\\StudentCoursesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:50:00.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Models\\Course.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\Course.cs",
+              "RelativeToolTip": "StudentCourseList\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:40:47.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Models\\Enrollment.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\Enrollment.cs",
+              "RelativeToolTip": "StudentCourseList\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:38:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCourseList\\Models\\Student.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\MVCAssignment\\StudentCourseList\\Models\\Student.cs",
+              "RelativeToolTip": "StudentCourseList\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:36:30.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

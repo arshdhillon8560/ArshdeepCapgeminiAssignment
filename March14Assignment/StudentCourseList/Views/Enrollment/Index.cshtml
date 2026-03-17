@@ -1,0 +1,71 @@
+﻿@model IEnumerable<StudentCourseList.Models.StudentCoursesVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold text-primary">🎓 Students & Their Courses</h2>
+
+        <a asp-action="Create" class="btn btn-success shadow-sm">
+            + Add New Student
+        </a>
+    </div>
+
+    <div class="card shadow-lg border-0">
+        <div class="card-body">
+
+            <table class="table table-hover table-striped align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Name)</th>
+                        <th>@Html.DisplayNameFor(model => model.Branch)</th>
+                        <th>Course Titles</th>
+                        <th class="text-center">@Html.DisplayNameFor(model => model.CourseCount)</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="fw-semibold text-primary">
+                                @item.Name
+                            </td>
+
+                            <td>
+                                <span class="badge bg-info text-dark px-3 py-2">
+                                    @item.Branch
+                                </span>
+                            </td>
+
+                            <td>
+                                @{
+                                    var courses = item.CourseTitles;
+                                }
+
+                                @foreach (var course in courses)
+                                {
+                                    <span class="badge bg-secondary me-1 mb-1 p-2">
+                                        @course
+                                    </span>
+                                }
+                            </td>
+
+                            <td class="text-center">
+                                <span class="badge bg-success fs-6">
+                                    @item.CourseCount
+                                </span>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+
+</div>
