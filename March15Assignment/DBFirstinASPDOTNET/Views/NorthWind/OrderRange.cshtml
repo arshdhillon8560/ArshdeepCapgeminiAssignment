@@ -1,0 +1,86 @@
+﻿@model IEnumerable<DBFirstinASPDOTNET.Models.Customer>
+
+@{
+    ViewData["Title"] = "OrderRange";
+}
+
+<div class="container mt-4">
+
+    <!-- Title + Form -->
+    <div class="card shadow-sm p-4 mb-4">
+        <div class="row align-items-center">
+
+            <div class="col-md-6">
+                <h3 class="fw-bold text-primary mb-0">
+                    Customer With Order Range
+                </h3>
+            </div>
+
+            <div class="col-md-6">
+                <form method="get" asp-action="OrderRange" asp-controller="NorthWind">
+                    <div class="input-group">
+
+                        <select name="range" class="form-select" required>
+                            <option value="">Select Order Range</option>
+                            <option value="5">More than 5 orders</option>
+                            <option value="10">More than 10 orders</option>
+                            <option value="20">More than 20 orders</option>
+                            <option value="30">More than 30 orders</option>
+                        </select>
+
+                        <button type="submit" class="btn btn-primary">
+                            🔍 Search
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Result Section -->
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-warning text-center shadow-sm">
+            <h5 class="mb-0">⚠️ No Customers Found</h5>
+        </div>
+    }
+    else
+    {
+        <div class="card shadow-sm p-3">
+            <div class="table-responsive">
+                <table class="table table-hover table-striped align-middle text-center">
+
+                    <thead class="table-dark">
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.First().CustomerId)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().ContactName)</th>
+                            <th>View Orders</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="fw-semibold">@item.CustomerId</td>
+                                <td>@item.ContactName</td>
+                                <td>
+                                    <a asp-action="CustomerOrderDetails"
+                                           asp-controller="NorthWind"
+                                           asp-route-id="@item.CustomerId"
+                                           class="btn btn-primary btn-sm">
+                                        View Orders
+                                    </a>
+                                </td>
+                            </tr>
+
+                        }
+                    </tbody>
+
+                </table>
+            </div>
+        </div>
+    }
+
+</div>
