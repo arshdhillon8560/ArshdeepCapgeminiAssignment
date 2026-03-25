@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arshdeep_Singh\\Day50Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|e:\\arshdeep_singh\\day50projects\\layout\u0026sectionsdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783717F1-8847-ECD1-9F6D-0C7FF0465A77}|Layout\u0026SectionsDemo\\Layout\u0026SectionsDemo.csproj|solutionrelative:layout\u0026sectionsdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:35:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:24:05.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\Department\\Index.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:23:27.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:20:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:26.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:13:06.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Models\\Employee.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Models\\Department.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Models\\Department.cs",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:10:33.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:09:14.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:07:16.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:04:11.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Layout\u0026SectionsDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day50Projects\\Layout\u0026SectionsDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Layout\u0026SectionsDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:04:05.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

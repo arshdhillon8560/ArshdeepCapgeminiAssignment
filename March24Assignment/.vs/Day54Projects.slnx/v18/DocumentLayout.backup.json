@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arshdeep_Singh\\Day54Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|e:\\arshdeep_singh\\day54projects\\webapiaspdotnetdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|solutionrelative:webapiaspdotnetdemo\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|e:\\arshdeep_singh\\day54projects\\webapiaspdotnetdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|solutionrelative:webapiaspdotnetdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|e:\\arshdeep_singh\\day54projects\\webapiaspdotnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|solutionrelative:webapiaspdotnetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Migrations\\20260324055141_emp table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPIASPDOTNETDEMO\\Migrations\\20260324055141_emp table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|e:\\arshdeep_singh\\day54projects\\webapiaspdotnetdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|solutionrelative:webapiaspdotnetdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|e:\\arshdeep_singh\\day54projects\\webapiaspdotnetdemo\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|solutionrelative:webapiaspdotnetdemo\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|e:\\arshdeep_singh\\day54projects\\webapiaspdotnetdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DDCD21-C8F1-430B-9ABE-19C334FBD9F5}|WebAPIASPDOTNETDEMO\\WebAPIASPDOTNETDEMO.csproj|solutionrelative:webapiaspdotnetdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAPIASPDOTNETDEMO\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAPIASPDOTNETDEMO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:33:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebAPIASPDOTNETDEMO\\Controllers\\EmpController.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebAPIASPDOTNETDEMO\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:01:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260324055141_emp table added.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Migrations\\20260324055141_emp table added.cs",
+              "RelativeDocumentMoniker": "WebAPIASPDOTNETDEMO\\Migrations\\20260324055141_emp table added.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Migrations\\20260324055141_emp table added.cs",
+              "RelativeToolTip": "WebAPIASPDOTNETDEMO\\Migrations\\20260324055141_emp table added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:51:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIASPDOTNETDEMO\\Program.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Program.cs",
+              "RelativeToolTip": "WebAPIASPDOTNETDEMO\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:50:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIASPDOTNETDEMO\\appsettings.json",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\appsettings.json",
+              "RelativeToolTip": "WebAPIASPDOTNETDEMO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T05:45:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Models\\EmpContext.cs",
+              "RelativeDocumentMoniker": "WebAPIASPDOTNETDEMO\\Models\\EmpContext.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Models\\EmpContext.cs",
+              "RelativeToolTip": "WebAPIASPDOTNETDEMO\\Models\\EmpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:36:02.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAPIASPDOTNETDEMO\\Models\\Employee.cs",
+              "ToolTip": "E:\\Arshdeep_Singh\\Day54Projects\\WebAPIASPDOTNETDEMO\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAPIASPDOTNETDEMO\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:34:05.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
