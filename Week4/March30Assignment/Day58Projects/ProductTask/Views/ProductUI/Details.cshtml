@@ -1,0 +1,86 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Product Details</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.2/dist/quartz/bootstrap.min.css" rel="stylesheet">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="bg-info text-white p-3 text-center">
+        <h2>Product Details</h2>
+    </div>
+
+    <div class="container mt-4">
+
+        <div class="card mx-auto shadow" style="width: 400px; border-radius: 15px;">
+
+            <div class="card-header bg-primary text-white text-center" id="productName">
+                Loading...
+            </div>
+
+            <div class="card-body">
+
+                <p><strong>ID:</strong> <span id="productId"></span></p>
+                <p><strong>Price:</strong> ₹ <span id="productPrice"></span></p>
+                <p><strong>Category:</strong> <span id="productCategory"></span></p>
+
+                <div class="text-center mt-3">
+                    <a href="/ProductUI/Index" class="btn btn-secondary">Back</a>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script>
+
+        $(document).ready(function () {
+
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get("id");
+
+        if (!id) {
+        alert("No product ID provided");
+        return;
+        }
+
+        $.ajax({
+        url: `/api/Product/${id}`,
+        type: "GET",
+        success: function (prod) {
+
+        if (!prod) {
+        alert("Product not found");
+        return;
+        }
+
+        $("#productName").text(prod.name);
+        $("#productId").text(prod.id);
+        $("#productPrice").text(prod.price);
+        $("#productCategory").text(prod.category);
+        },
+        error: function () {
+        alert("Failed to load product details.");
+        }
+        });
+
+        });
+
+    </script>
+
+</body>
+</html>

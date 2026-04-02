@@ -1,0 +1,122 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Edit Product</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.2/dist/quartz/bootstrap.min.css" rel="stylesheet">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="bg-warning text-white p-3 text-center">
+        <h2>Edit Product</h2>
+    </div>
+
+    <div class="container mt-4">
+
+        <div class="card mx-auto shadow" style="width: 450px; border-radius: 15px;">
+
+            <div class="card-header bg-warning text-dark text-center">
+                Update Product
+            </div>
+
+            <form id="editForm">
+                <div class="card-body">
+
+                    <input type="hidden" id="productId" />
+
+                    <div class="mb-3">
+                        <label>Name</label>
+                        <input type="text" class="form-control" id="name" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Price</label>
+                        <input type="number" class="form-control" id="price" step="0.01" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label>Category</label>
+                        <input type="text" class="form-control" id="category" required />
+                    </div>
+
+                    <button type="submit" class="btn btn-success">Update</button>
+                    <a href="/ProductUI/Index" class="btn btn-secondary">Cancel</a>
+
+                </div>
+            </form>
+
+        </div>
+
+    </div>
+
+    <script>
+
+        $(document).ready(function () {
+
+        const params = new URLSearchParams(window.location.search);
+        const id = params.get("id");
+
+        if (!id) {
+        alert("No product ID provided");
+        return;
+        }
+
+        // ✅ Load existing product
+        $.ajax({
+        url: `/api/Product/${id}`,
+        type: "GET",
+        success: function (prod) {
+        $("#productId").val(prod.id);
+        $("#name").val(prod.name);
+        $("#price").val(prod.price);
+        $("#category").val(prod.category);
+        },
+        error: function () {
+        alert("Failed to load product.");
+        }
+        });
+
+        // ✅ Update product
+        $("#editForm").submit(function (e) {
+        e.preventDefault();
+
+        const product = {
+        id: parseInt($("#productId").val()),
+        name: $("#name").val(),
+        price: parseFloat($("#price").val()),
+        category: $("#category").val()
+        };
+
+        $.ajax({
+        url: `/api/Product/${product.id}`,
+        type: "PUT",
+        contentType: "application/json",
+        data: JSON.stringify(product),
+        success: function () {
+        alert("Product updated successfully!");
+        window.location.href = "/ProductUI/Index";
+        },
+        error: function (xhr) {
+        alert("Error: " + xhr.responseText);
+        }
+        });
+
+        });
+
+        });
+
+    </script>
+
+</body>
+</html>
